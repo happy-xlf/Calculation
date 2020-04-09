@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">四则运算</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CalName">四则运算</string>
+    <string name="title_image">image</string>
+    <string name="title_button">Enter</string>
+    <string name="higer_score">最高分:%d</string>
+    <string name="image_win">win</string>
+    <string name="Current_Score">Score:%d</string>
+    <string name="Cal_Answer">\?</string>
+    <string name="New_Score">你的成绩是:%d</string>
+</resources>
